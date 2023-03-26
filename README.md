@@ -6,4 +6,4 @@
 <br>
 
 # Screen Record
-![Screen Recording](./Record.gif)
+![MenuBar](/Record.gif)

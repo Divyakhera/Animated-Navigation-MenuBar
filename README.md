@@ -5,5 +5,5 @@
 #### Make only using HTML and CSS.
 <br>
 
-# Screen Record
+# Preview
 ![MenuBar](/Record.gif)
